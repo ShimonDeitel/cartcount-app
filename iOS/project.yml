@@ -35,7 +35,6 @@ targets:
     platform: iOS
     sources:
       - path: CartcountTests
-      - path: Cartcount.storekit
     dependencies:
       - target: Cartcount
     settings:
